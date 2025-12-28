@@ -18,10 +18,10 @@ Although I-Simpa is well adapted for energetic models (ray-tracing, sound-partic
 **I-Simpa is distributed with two codes** (`TCR`_ based on the classical theory of reverberation and `SPPS`_ based on particle tracing approach). Classical applications are room and building acoustics, environmental noise and industrial noise, but it can be easily extended to other applications about sound propagation in 3D environments (vehicle interior, sound in cavities…).
 
 
-.. _`new generation of noise prediction software for research, engineering and education`: I_Simpa_overview.html
-.. _`features`: I_Simpa_features.html
-.. _`TCR`: code_TCR.hmtl
-.. _`SPPS`: code_SPPS.hmtl
+.. _`new generation of noise prediction software for research, engineering and education`: :doc:`I_Simpa_overview`
+.. _`features`: :doc:`I_Simpa_features`
+.. _`TCR`: :doc:`code_TCR`
+.. _`SPPS`: :doc:`code_SPPS`
 
 ==================
 I-Simpa User Guide
