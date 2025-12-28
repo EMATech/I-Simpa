@@ -12,10 +12,10 @@ I-Simpa is a `new generation of noise prediction software for research, engineer
    :align:   right
    :width:   300px
 
-**I-Simpa is a graphical user interface (GUI) developed to host three-dimensional numerical codes for the modeling of sound propagation in complex geometrical domains**, and propose many `features`_
-Although I-Simpa is well adapted for energetic models (ray-tracing, sound-particle tracing, theory of reverberation…), it can be extend to use ondulatory approaches.
+**I-Simpa is a graphical user interface (GUI) developed to host three-dimensional numerical codes for the modeling of sound propagation in complex geometrical domains**, and offers many `features`_.
+Although I-Simpa is well adapted for energetic models (ray-tracing, sound-particle tracing, theory of reverberation…), it can be extended to use ondulatory approaches.
 
-**I-Simpa is distributed with two codes** (`TCR`_ based on the classical theory of reverberation and `SPPS`_ based on particle tracing approach). Classical applications are room and building acoustics, environmental noise and industrial noise, but it can be easily extend to other applications concerning the sound propagation in 3D environments (interior of vehicle, sound in cavities…).
+**I-Simpa is distributed with two codes** (`TCR`_ based on the classical theory of reverberation and `SPPS`_ based on particle tracing approach). Classical applications are room and building acoustics, environmental noise and industrial noise, but it can be easily extended to other applications about sound propagation in 3D environments (vehicle interior, sound in cavities…).
 
 
 .. _`new generation of noise prediction software for research, engineering and education`: I_Simpa_overview.html
@@ -32,18 +32,18 @@ the TCR numerical codes (embedded within the I-Simpa software).
 
 -  for **more information** on I-Simpa, `visit the offical I-Simpa
    website`_
--  for **contributing to I-Simpa** from the source code, follows the
+-  for **contributing to I-Simpa** from the source code, follow the
    `instructions`_
 
 .. note::
 	-  This user guide is currently not complete. Additions are underway.
 	-  Some illustrations may referred to previous versions of I-Simpa.
-	-  Depending of your OS, screenchots may differs.
+	-  Depending of your OS, screenshots may differ.
 	-  Some texts and translations in I-Simpa may have changed.
-	- If the present documentation is the 'Offline documentation' you may refer to the online version at http://i-simpa-wiki.readthedocs.io/en/latest/ for an up-to-date documentation.
+	-  If you're reading the 'Offline documentation' you may refer to the online version at https://i-simpa-wiki.readthedocs.io for an up-to-date version.
 	-  If you observe some mistakes or errors, please `write an Issue on GitHub`_
 	-  You can also `contribute to the documentation`_.
-	-  The official documentation is available in English only.
+	-  The official documentation is only available in English.
 
 .. _visit the offical I-Simpa website: https://i-simpa.univ-gustave-eiffel.fr
 .. _instructions: https://github.com/Ifsttar/I-Simpa/wiki
@@ -80,7 +80,7 @@ the TCR numerical codes (embedded within the I-Simpa software).
 
 .. toctree::
    :maxdepth: 2
-   :caption: Thematics
+   :caption: Topics
 
    import_options
    import_file_recommandations
